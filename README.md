@@ -60,3 +60,6 @@
 | 8    | `enter`                             | 按 1 次 `enter`，不输入第 4 位，提交密码|
 
 ---
+
+![rec_2024_12_12_06_23_05](https://github.com/user-attachments/assets/c5a61d5a-bc38-4658-b3ad-c4641c9aacc1)
+
